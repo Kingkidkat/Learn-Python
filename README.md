@@ -16,6 +16,3 @@ customer_one_total += customer_one_tax
 
 print("Customer One Items:", customer_one_itemization)
 print("Customer One Total:",customer_one_total)
-
-
-
